@@ -1,0 +1,8 @@
+{
+  "appId": "com.ecgacls.masterlab",
+  "appName": "ECG & ACLS Master Lab",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "always" }
+}

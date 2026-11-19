@@ -1,0 +1,10 @@
+{
+  "name": "ecg-acls-master-lab-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync",
+    "android": "npx cap open android",
+    "ios": "npx cap open ios"
+  }
+}
